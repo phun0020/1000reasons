@@ -1,0 +1,287 @@
+﻿{
+    "reasons": [
+        {
+            "id": "1",
+            "title": "Chọn sai địa điểm",
+            "description": "chỗ phù hợp, thuận tiện cho khách hàng",
+            "color": "red",
+            "selected": "true"
+        },
+        {
+            "id": "2",
+            "title": "Không biết setup quán",
+            "description": "có hợp đồng với bên setup, bàn bạc kĩ và làm việc giấy tờ rõ ràng",
+            "color": "indigo",
+            "selected": "true"
+        },
+        {
+            "id": "3",
+            "title": "Khách ngồi quá lâu",
+            "description": "quán đầy người nhưng không có bao nhiêu tiền hết, mua bàn ghê, menu thế nào cho phù hợp",
+            "color": "teal",
+            "selected": "true"
+        },
+        {
+            "id": "4",
+            "title": "Thích nhương quyền",
+            "description": "quy trình / chất lượng / tài chính rất khó quản lý từ xa",
+            "color": "yellow",
+            "selected": "true"
+        },
+        {
+            "id": "5",
+            "title": "Nhân viên nghỉ ngang",
+            "description": "tài chính, mâu thuẫn với sếp, gia đình phản đối, mới chia tay bồ",
+            "color": "pink",
+            "selected": "true"
+        },
+        {
+            "id": "6",
+            "title": "Giãn cách",
+            "description": "dịch bệnh vẫn phải trả tiền khấu hao, định phí, phí duy trì",
+            "color": "blue",
+            "selected": "true"
+        },
+        {
+            "id": "7",
+            "title": "Không có gì làm đi làm cà phê",
+            "description": "1000 người, 888 người làm cà phê. Ngành dễ vô nhưng dễ chết",
+            "color": "green",
+            "selected": "true"
+        },
+        {
+            "id": "8",
+            "title": "Nhân viên mất dại",
+            "description": "đủ thứ loại nhân viên. Tuyển và đuổi là phương pháp",
+            "color": "amber"
+        },
+        {
+            "id": "9",
+            "title": "Chủ khơi khơi đòi lại nhà",
+            "description": "họ nằm đằng cán, thuê nhà nhỏ lẻ không chống được chủ nhà",
+            "color": "purple"
+        },
+        {
+            "id": "10",
+            "title": "Không biết khi nào lại vốn",
+            "description": "tính ra coi khi nào bạn lấy lại được lời? không được trong 3 4 năm thì dẹp",
+            "color": "lightblue"
+        },
+        {
+            "id": "11",
+            "title": "Chủ không cho decor lại",
+            "description": "mọi decor thảo luận phải kí tên, quay phim lại nếu cần thiết",
+            "color": "lightgreen"
+        },
+        {
+            "id": "12",
+            "title": "Nhân viên coi thường chủ quán",
+            "description": "bạn phải làm sao để nhân viên tôn trọng bạn bằng cách tôn trọng, quan tâm ngược lại",
+            "color": "orange"
+        },
+        {
+            "id": "13",
+            "title": "Thấy nợ xấu, không thấy nợ tốt",
+            "description": "đầu tư vào không thấy lợi nhuận. Không sinh lời thì mày cắt đi",
+            "color": "deeppurple"
+        },
+        {
+            "id": "14",
+            "title": "Đánh cắp công thức, hình ảnh",
+            "description": "ăn cắp chất xám diễn ra rất là phổ biến",
+            "color": "cyan"
+        },
+        {
+            "id": "15",
+            "title": "Phải kinh doanh lễ và Tết",
+            "description": "doanh số gấp 4 lần, kiếm được bằng mấy tháng ngày thường",
+            "color": "lime"
+        },
+        {
+            "id": "16",
+            "title": "Tiền điện",
+            "description": "biết cách phân khung giờ / thiết kể cửa sổ cho chi phí máy lạnh",
+            "color": "deeporange"
+        },
+        {
+            "id": "17",
+            "title": "Hàng xóm kiếm chuyện",
+            "description": "hàng xóm xây nhà làm ồn, chiếm dụng không gian",
+            "color": "red"
+        },
+        {
+            "id": "18",
+            "title": "Cơ sở vật chất lúc nào cũng hư",
+            "description": "tính toán trước contact, chi phí thay bàn ghê, máy móc. Tuần nào tháng nào cũng phải sửa",
+            "color": "indigo"
+        },
+        {
+            "id": "19",
+            "title": "Phụ thuộc vô người quen",
+            "description": "luôn luôn phải truyền thông để có khách hàng mới, unique selling point, chất lượng",
+            "color": "teal"
+        },
+        {
+            "id": "20",
+            "title": "Không có quy trình cúng",
+            "description": "tôn trọng văn hóa Việt Nam, có quy trình cúng kiếng đàng hoàng",
+            "color": "yellow"
+        },
+        {
+            "id": "21",
+            "title": "Bí ý tưởng",
+            "description": "decor mới, chương trình mới, món mới mỗi 3 tháng nếu không muốn tụt hậu",
+            "color": "pink"
+        },
+        {
+            "id": "22",
+            "title": "Không kiểm soát được lãi lỗ",
+            "description": "bảng tài chính, báo cáo hoạt động kinh doanh, cầm tiền trên tay nhưng lỗ",
+            "color": "blue"
+        },
+        {
+            "id": "23",
+            "title": "Thuê nhầm người",
+            "description": "làm ăn với người xấu, nhân viên xấu, không về lâu về dài được",
+            "color": "green"
+        },
+        {
+            "id": "24",
+            "title": "Marketing kém",
+            "description": "hành vi khách hàng, khuyến mãi, giảm giá, chăm sóc khách hàng trên social, trong quán",
+            "color": "amber"
+        },
+        {
+            "id": "25",
+            "title": "Insight",
+            "description": "không hiểu tâm lý, thói quen khách hàng, giữ định kiến",
+            "color": "purple"
+        },
+        {
+            "id": "26",
+            "title": "Kế hoạch sinh tồn cho quán",
+            "description": "kinh doanh online, delivery. Nổ lực nâng cấp thương hiệu của bạn trong mùa dịch",
+            "color": "lightblue"
+        },
+        {
+            "id": "27",
+            "title": "Chối bỏ góp ý",
+            "description": "thay đổi chọn lọc theo ý kiến. làm như mấy người biết tuốt tất cả mọi thứ vậy đó",
+            "color": "lightgreen"
+        },
+        {
+            "id": "28",
+            "title": "Phải xử lý quá nhiều việc một lúc",
+            "description": "làm ra một hệ thống tự vận hành cho mình về con người",
+            "color": "orange"
+        },
+        {
+            "id": "29",
+            "title": "Giá cả",
+            "description": "định giá thấp thì tiền lời đâu ra. Cao quá thì ai mà tới. Tham khảo hành lang giá",
+            "color": "deeppurple"
+        },
+        {
+            "id": "30",
+            "title": "Không biết cách đuổi khách",
+            "description": "làm người ta rời đi trong cái sự dzui dzẻ và thoải mái",
+            "color": "cyan"
+        },
+        {
+            "id": "31",
+            "title": "Nhân viên quán yêu nhau",
+            "description": "lỡ gây sự thì khó làm việc, ảnh hưởng đến văn hóa chung, khách hàng",
+            "color": "lime"
+        },
+        {
+            "id": "32",
+            "title": "Lựa chọn mô hình kinh doanh sai",
+            "description": "sở thích sai với sở trưởng của bạn. Chênh lệch giữa sở thích và thế mạnh",
+            "color": "deeporange"
+        },
+        {
+            "id": "33",
+            "title": "Cực chẳng đã",
+            "description": "nói chuyện nhân viên, chủ nợ, cảm xúc cá nhân khi sang quán",
+            "color": "red"
+        },
+        {
+            "id": "34",
+            "title": "Không biết R&D",
+            "description": "mọi người có xu hướng chán mọi thứ. Phải thường xuyên tạo ra mẫu mới. Mỗi tháng một cái gì mới",
+            "color": "indigo"
+        },
+        {
+            "id": "35",
+            "title": "Hổng có tính trước",
+            "description": "không dự đoán trước được kinh tế, nội bộ, thời điểm đặc biệt trong năm",
+            "color": "teal"
+        },
+        {
+            "id": "36",
+            "title": "Đuổi khách về sớm (P2)",
+            "description": "khả năng IT để setup wifi nếu có thể",
+            "color": "yellow"
+        },
+        {
+            "id": "37",
+            "title": "Khách tin vào gu cà phê",
+            "description": "làm cho khách tin bằng chất lượng, độ tin tưởng, uy tín cá nhân",
+            "color": "pink"
+        },
+        {
+            "id": "38",
+            "title": "Ẩu đả trong quán là có thật",
+            "description": "quản trị cho nhân sự và quảy lý, đảm bảo an toàn cho nhân viên. Lắp đặt camera nếu có thể",
+            "color": "blue"
+        },
+        {
+            "id": "39",
+            "title": "Làm hư cơ sở vật chất",
+            "description": "không có quy trình, cách đền, giá của món đồ đó như thế nào, inventory",
+            "color": "green"
+        },
+        {
+            "id": "40",
+            "title": "Thứ bạn làm không qua POS",
+            "description": "không biết hàng, cơ sở vật chất ra vô như thế nào, ghi nhận trên hệ thống",
+            "color": "amber"
+        },
+        {
+            "id": "41",
+            "title": "Đuổi khách bằng âm nhạc (P3)",
+            "description": "nhạc nhanh và lớn làm khách có hành vi ra khỏi quán",
+            "color": "purple"
+        },
+        {
+            "id": "42",
+            "title": "Không biết kiểm soát hàng tồn",
+            "description": "thất thoát, dồn tiền trữ hàng, không biết RnD những sản phẩm tiếp theo thế nào",
+            "color": "lightblue"
+        },
+        {
+            "id": "43",
+            "title": "Nhân viên nghỉ ngang (P2)",
+            "description": "quá nhiều cơ hội việc làm, mắc gì người ta phải làm cho bạn",
+            "color": "lightgreen"
+        },
+        {
+            "id": "44",
+            "title": "Đuổi khách (P4)",
+            "description": "tinh chỉnh, chọn lựa để ngồi lâu không thoải mái. bàn ghế mang tính đuổi khách",
+            "color": "orange"
+        },
+        {
+            "id": "45",
+            "title": "Không có tình yêu",
+            "description": "bất cứ quán nào cũng có tình yêu với một thứ gì đó",
+            "color": "deeppurple"
+        },
+        {
+            "id": "46",
+            "title": "Thừa nước đục thả câu",
+            "description": "tính tiền cao nhất, chi phí thấp nhất sau khi hết dịch (làm theo thì phá sản)",
+            "color": "cyan"
+        }
+    ]
+}
